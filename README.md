@@ -14,7 +14,7 @@ Users should be able to:
 
 Technologies Used .HTML5 .CSS3
 
-Getting Started To get started, simply clone the repository and open index.html in your browser. git clone https://github.com/Deborah-Mokeira/Product-preview-card-component.git 
+Getting Started To get started, simply clone the repository and open index.html in your browser. git clone https://github.com/yourusername/Product-preview-card-component.git 
 # cd
 -product-preview-card-component
 
